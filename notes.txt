@@ -1,3 +1,6 @@
 This is a sample notes file.
 It has two random lines.
 This is the end of the notes file.
+
+Summary:
+This is a summary of the notes file.
