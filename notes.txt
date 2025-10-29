@@ -1,3 +1,9 @@
 This is a sample notes file.
 It has two random lines.
 This is the end of the notes file.
+
+Summary:
+This is a different summary section on the main branch.
+
+Insights:
+This is a new insights section, only available in the notes file in the main branch.
